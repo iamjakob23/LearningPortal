@@ -1,0 +1,270 @@
+/*------------------------------------------------------
+Start of main navigation elements
+--------------------------------------------------------*/
+#mainNav{
+    border-radius: 0px;
+    background: linear-gradient(lightblue, white);
+    border: 1px;
+    border-color: lightblue;
+    box-shadow: 0px 0px 4px 0px #28a4c9;
+}
+
+#mainNav a{
+    color: darkblue;
+}
+
+#mainNav a:hover{
+    background-color: lightblue;
+}
+
+#mainNav a:focus{
+    background: linear-gradient(white, lightblue);
+}
+
+.navbar-toggle{
+    border-radius: 70px;
+    background: linear-gradient(white, lightblue);
+}
+
+#siteNameHead{
+    color: #28a4c9;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+
+#headShot{
+    margin: auto;
+}
+
+#mathLinkName{
+    padding-left: 8px;
+    color: #2a6496;
+    font-weight: bold;
+}
+/*------------------------------------------------------
+End of main navigation elements
+--------------------------------------------------------*/
+
+/*-----------------------------------------------------
+Start for the clickable message alert displayed at 
+top of page
+-------------------------------------------------------*/
+#mainAlert{
+    text-align: center;
+}
+
+/*-----------------------------------------------------
+End for the clickable message alert displayed at 
+top of page
+-------------------------------------------------------*/
+
+/*------------------------------------------------------
+Start of all form elements
+--------------------------------------------------------*/
+#loginForm{
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+#signup{
+    text-align: center;
+    padding: 10px;
+    margin: 3px;
+    color: #0000000;
+}
+
+#signup a{
+    color: #000000;
+}
+
+#answerButton{
+    font-size: 12px;
+}
+/*------------------------------------------------------
+End of all form elements
+--------------------------------------------------------*/
+
+/*-----------------------------------------------------
+Start of jumbotro elements
+-------------------------------------------------------*/
+#topJumbo{
+    font-size: 20px;
+    margin: 0px;
+    padding: 14px;
+}
+/*-----------------------------------------------------
+End of jumbotro elements
+-------------------------------------------------------*/
+
+/*-----------------------------------------------------
+Start of main container elements
+-------------------------------------------------------*/
+#loggedIn{
+    padding-top: 20px;
+    margin: 20px;
+}
+
+#headerTitleSmall{
+    color: #28a4c9;
+}
+
+.container-fluid#mainBody{
+    border-radius: 14px;
+    background-color: white;
+    margin: 20px;
+    margin-top: -8px;
+    padding: 30px;
+    box-shadow: 1px 3px 3px 5px #28a4c9;
+}
+
+#headerTitle{
+    margin: 0px 10px;
+}
+
+/*Next two displays the panel with diff color header than bottom*/
+#panelBottom{
+    background-color: white;
+}
+
+#panelTitle{
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.leftContainer{
+    font-size: 36px;
+}
+
+#rightcolumn{
+    margin: auto;
+    text-align: center;
+    color: darkblue;
+    font-size: 18px;
+    /*padding-top: 20px;*/
+}
+
+#rightTitle{
+    padding: 0px;
+    margin: auto;
+    text-align: center;
+    color: darkblue;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#leftTitle{
+    padding: 0px;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#leftColumn{
+    margin: auto;
+    padding: 0px;
+    text-align: center;
+}
+
+#rightAboutColumn{
+    padding: 0px;
+    margin: auto;
+    text-align: center;
+    color: #2a6496;
+    font-size: 18px;
+    /*padding-top: 20px;*/
+}
+
+#rightAboutTitle{
+    padding: 0px;
+    margin: auto;
+    text-align: center;
+    color: #2a6496;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#leftAboutTitle{
+    padding: 0px;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: #2a6496;
+}
+
+#leftAboutColumn{
+    margin: auto;
+    text-align: center;
+    color: #2a6496;
+    font-size: 18px;
+}
+
+#answerField{
+    max-width: 75px;
+    margin: auto;
+    text-align: center;
+}
+
+.buttonGroup{
+    width: 100%;
+    padding: 12px;
+    
+}
+
+.btn-info#buttonGroupButton1{
+    width: 100%;
+    border: 1px;
+    border-color: darkblue;
+    border-style: solid;
+    font-size: 24px;
+    padding: 12px;
+}
+.btn-info#buttonGroupButton2{
+    width: 100%;
+    border: 1px;
+    border-color: darkblue;
+    border-style: solid;
+    font-size: 24px;
+    padding: 12px;
+}
+.btn-info#buttonGroupButton3{
+    width: 100%;
+    border: 1px;
+    border-color: darkblue;
+    border-style: solid;
+    font-size: 24px;
+    padding: 12px;
+}
+/*-----------------------------------------------------
+End of main container elements
+-------------------------------------------------------*/
+
+.pull-left{
+    margin: 8px 4px 4px 4px;
+}
+
+html, body{
+    background: linear-gradient(#28a4c9, white);
+    padding-top: 8px;
+    padding-bottom: 25px;
+}
+
+/*------------------------------------------------------
+Start of all footer elements
+--------------------------------------------------------*/
+#footerClass{
+    text-align: right;
+    /*margin: 20px;*/
+    background-color: #28a4c9;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.footer{
+    padding: 15px;
+}
+/*------------------------------------------------------
+End of all footer elements
+--------------------------------------------------------*/
