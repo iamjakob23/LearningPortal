@@ -6,12 +6,6 @@
     	protected $db_pass = 'B1111111b!';
     	protected $db_host = 'testdbskool.db.2036938.hostedresource.com';
 
-//        //school server login info
-//        protected $db_name = 'c1510a10proj';
-//        protected $db_user = 'c1510a10';
-//        protected $db_pass = 'c1510a10';
-//        protected $db_host = 'localhost';
-
         public $numRows;
 
         //open a connection to the database. Make sure this is called 
