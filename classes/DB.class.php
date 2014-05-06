@@ -1,10 +1,10 @@
 <?php
     class DB {
 //        main server login info
-    	protected $db_name = 'xxx';
-    	protected $db_user = 'xxx';
-    	protected $db_pass = 'xxx';
-    	protected $db_host = 'xxx';
+    	protected $db_name = 'testdbskool';
+    	protected $db_user = 'testdbskool';
+    	protected $db_pass = 'B1111111b!';
+    	protected $db_host = 'testdbskool.db.2036938.hostedresource.com';
 
 //        //school server login info
 //        protected $db_name = 'c1510a10proj';

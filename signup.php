@@ -7,10 +7,10 @@
         $hashedPW  = md5($userPW);
         echo '<script>alert("'.strtoupper($userEmail).' has been added!");</script>';
         //DB Connection info <Start>
-        $host     = "xxx";
+        $host = "xxx";
         $userName = "xxx";
-        $pw       = "xxx";
-        $dbName   = "xxx";
+        $pw = "xxx";
+        $dbName = "xxx";
         $connectionInfo = mysqli_connect($host,$userName,$pw,$dbName);
 
         if (mysqli_connect_errno()){
